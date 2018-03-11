@@ -4,7 +4,7 @@ Input file(given as a command-line argument) contains the assembly instructions 
 Output file contains the corresponding results and the state of the flag register, which includes the carry bit, the overflow bit, the zero bit and the negative bit. 
 
 compile the code as:
-	gcc prog1.c 
+	gcc basic_isa.c 
 run the code as:
 	./a.out input
 Here, the 'input' file contains the test cases.
